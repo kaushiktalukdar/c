@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "cstdio": "cpp",
+        "type_traits": "cpp",
+        "typeinfo": "cpp"
+    }
+}
